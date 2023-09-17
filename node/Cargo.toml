@@ -21,7 +21,7 @@ clap = { version = "4.1.8", features = ["derive"] }
 codec = { package = 'parity-scale-codec', version = '3.4.0' }
 futures = "0.3.26"
 hex-literal = "0.3"
-log = "0.4.16"
+log = "0.4.20"
 serde = { version = "1.0.140", features = ["derive"] }
 tracing-core = "=0.1.30"
 
