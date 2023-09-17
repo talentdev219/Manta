@@ -12,7 +12,7 @@ version = '4.4.0'
 codec = { version = '3.4.0', default-features = false, features = ['derive'], package = 'parity-scale-codec' }
 function_name = "0.3"
 jsonrpsee = { version = "0.16.2", features = ["server", "macros"], optional = true }
-log = { version = "0.4.0", default-features = false }
+log = { version = "0.4.20", default-features = false }
 scale-info = { version = "2.1.2", default-features = false, features = ["derive"] }
 
 # Substrate dependencies
